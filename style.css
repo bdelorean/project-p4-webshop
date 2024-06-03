@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Meow+Script&display=swap');
+
+ 
+ 
+ :root{
+    --background-color: #F1EDE6;
+    --light-color:#CBAD8D;
+    --dark-color:#3A2D28;
+    --light-color-text:#F1EDE6;
+    --dark-color-text:#3A2D28;
+    --font-style-main: "Libre Caslon Display", serif;
+    --font-style-logo: "Meow Script", cursive;
+
+
+ }
