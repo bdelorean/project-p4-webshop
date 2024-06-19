@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"T-shirt",
+        "price":"150\u20ac",
+        "img":"./T-shirts/T-shirt2EF.webp",
+        "id":17
+    },
+    {
+        "brand":"Nikkie",
+        "product":"T-shirt",
+        "price":"130\u20ac",
+        "img":"./T-shirts/T-shirt2Nikkie.webp",
+        "id":18
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"T-shirt",
+        "price":"130\u20ac",
+        "img":"./T-shirts/T-shirt3EF.webp",
+        "id":19
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"T-shirt",
+        "price":"120\u20ac",
+        "img":"./T-shirts/T-shirt4EF.webp",
+        "id":20
+    },
+    {
+        "brand":"Nikkie",
+        "product":"T-shirt",
+        "price":"70\u20ac",
+        "img":"./T-shirts/T-shirt4Nikkie.webp",
+        "id":21
+    },
+    {
+        "brand":"Nikkie",
+        "product":"T-shirt",
+        "price":"120\u20ac",
+        "img":"./T-shirts/T-shirt5Nikkie.webp",
+        "id":22
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"T-shirt",
+        "price":"170\u20ac",
+        "img":"./T-shirts/T-shirtEF.webp",
+        "id":23
+    },
+    {
+        "brand":"Nikkie",
+        "product":"T-shirt",
+        "price":"180\u20ac",
+        "img":"./T-shirts/T-shirtNikkie.webp",
+        "id":24
+    }
+
+]

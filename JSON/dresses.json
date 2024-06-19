@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Nikkie",
+        "product":"jumpsuit",
+        "price":"150\u20ac",
+        "img":"./Jurken&jumpsuits/jumpsuit3Nikkie.webp",
+        "id":9
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"jumpsuit",
+        "price":"400\u20ac",
+        "img":"./Jurken&jumpsuits/JumpsuitEF.webp",
+        "id":10
+    },
+    {
+        "brand":"Nikkie",
+        "product":"jumpsuit",
+        "price":"280\u20ac",
+        "img":"./Jurken&jumpsuits/jumpsuitNikkie.webp",
+        "id":11
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"dress",
+        "price":"495\u20ac",
+        "img":"./Jurken&jumpsuits/jurk2EF.webp",
+        "id":12
+    },
+    {
+        "brand":"Nikkie",
+        "product":"dress",
+        "price":"170\u20ac",
+        "img":"./Jurken&jumpsuits/jurk3Nikkie.webp",
+        "id":13
+    },
+    {
+        "brand":"Nikkie",
+        "product":"dress",
+        "price":"120\u20ac",
+        "img":"./Jurken&jumpsuits/jurk5Nikkie.webp",
+        "id":14
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"dress",
+        "price":"470\u20ac",
+        "img":"./Jurken&jumpsuits/JurkEF.webp",
+        "id":15
+    },
+    {
+        "brand":"Nikkie",
+        "product":"dress",
+        "price":"180\u20ac",
+        "img":"./Jurken&jumpsuits/jurkNikkie.webp",
+        "id":16
+    }
+
+]

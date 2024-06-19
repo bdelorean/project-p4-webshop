@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"blazer",
+        "price":"450\u20ac",
+        "img":"./blazers/BlazerEF.webp",
+        "id":33
+    },
+    {
+        "brand":"Nikkie",
+        "product":"blazer",
+        "price":"230\u20ac",
+        "img":"./blazers/Blazer2Nikkie.webp",
+        "id":34
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"blazer",
+        "price":"450\u20ac",
+        "img":"./blazers/Blazer3EF.webp",
+        "id":35
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"blazer",
+        "price":"370\u20ac",
+        "img":"./blazers/Blazer4EF.webp",
+        "id":36
+    },
+    {
+        "brand":"Nikkie",
+        "product":"blazer",
+        "price":"220\u20ac",
+        "img":"./blazers/blazer5Nikkie.webp",
+        "id":37
+    },
+    {
+        "brand":"Nikkie",
+        "product":"blazer",
+        "price":"180\u20ac",
+        "img":"./blazers/blazer6Nikkie.webp",
+        "id":38
+    },
+    {
+        "brand":"Nikkie",
+        "product":"blazer",
+        "price":"180\u20ac",
+        "img":"./blazers/Blazer7Nikkie.webp",
+        "id":39
+    },
+    {
+        "brand":"Nikkie",
+        "product":"blazer",
+        "price":"280\u20ac",
+        "img":"./blazers/Blazer3Nikkie-outfit.webp",
+        "id":40
+    }
+
+]

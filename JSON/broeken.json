@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"broek",
+        "price":"250\u20ac",
+        "img":"./broeken/broekEF.webp",
+        "id":25
+    },
+    {
+        "brand":"Nikkie",
+        "product":"broek",
+        "price":"130\u20ac",
+        "img":"./broeken/broek3Nikkie.webp",
+        "id":26
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"broek",
+        "price":"250\u20ac",
+        "img":"./broeken/Broek2EF.webp",
+        "id":27
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"broek",
+        "price":"270\u20ac",
+        "img":"./broeken/broek3EF.webp",
+        "id":28
+    },
+    {
+        "brand":"Nikkie",
+        "product":"broek",
+        "price":"120\u20ac",
+        "img":"./broeken/broek4Nikkie.webp",
+        "id":29
+    },
+    {
+        "brand":"Nikkie",
+        "product":"broek",
+        "price":"120\u20ac",
+        "img":"./broeken/broek6Nikkie.webp",
+        "id":30
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"broek",
+        "price":"270\u20ac",
+        "img":"./broeken/broek4EF.webp",
+        "id":31
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"broek",
+        "price":"280\u20ac",
+        "img":"./broeken/broek5EF.webp",
+        "id":32
+    }
+
+]

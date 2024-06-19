@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"riem",
+        "price":"350\u20ac",
+        "img":"./riemen/riem2EF.webp",
+        "id":73
+    },
+    {
+        "brand":"Nikkie",
+        "product":"riem",
+        "price":"180\u20ac",
+        "img":"./riemen/riem2Nikkie.webp",
+        "id":74
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"riem",
+        "price":"430\u20ac",
+        "img":"./riemen/riem3EF.webp",
+        "id":75
+    },
+    {
+        "brand":"Nikkie",
+        "product":"riem",
+        "price":"110\u20ac",
+        "img":"./riemen/riem3Nikkie.webp",
+        "id":76
+    },
+    {
+        "brand":"Nikkie",
+        "product":"riem",
+        "price":"220\u20ac",
+        "img":"./riemen/riem4Nikkie.webp",
+        "id":77
+    },
+    {
+        "brand":"Nikkie",
+        "product":"riem",
+        "price":"180\u20ac",
+        "img":"./riemen/riem5Nikkie.webp",
+        "id":78
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"riem",
+        "price":"320\u20ac",
+        "img":"./riemen/riemEF.webp",
+        "id":79
+    },
+    {
+        "brand":"Nikkie",
+        "product":"riem",
+        "price":"120\u20ac",
+        "img":"./riemen/riemNikkie.webp",
+        "id":80
+    }
+
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Nikkie",
+        "product":"body",
+        "price":"80\u20ac",
+        "img":"./tops/topNikkie.webp",
+        "id":1
+    },
+    {
+        "brand":"Nikkie",
+        "product":"body",
+        "price":"100\u20ac",
+        "img":"./tops/top2Nikkie.webp",
+        "id":2
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"body",
+        "price":"280\u20ac",
+        "img":"./tops/BodyEF.webp",
+        "id":3
+    },
+    {
+        "brand":"Nikkie",
+        "product":"top",
+        "price":"95\u20ac",
+        "img":"./tops/top3Nikkie.webp",
+        "id":4
+    },
+    {
+        "brand":"Nikkie",
+        "product":"top",
+        "price":"70\u20ac",
+        "img":"./tops/top4Nikkie.webp",
+        "id":5
+    },
+    {
+        "brand":"Nikkie",
+        "product":"top",
+        "price":"120\u20ac",
+        "img":"./tops/top6Nikkie.webp",
+        "id":6
+    },
+    {
+        "brand":"Nikkie",
+        "product":"body",
+        "price":"70\u20ac",
+        "img":"./tops/body3Nikkie.webp",
+        "id":7
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"body",
+        "price":"370\u20ac",
+        "img":"./tops/Body2EF.webp",
+        "id":8
+    }
+
+]

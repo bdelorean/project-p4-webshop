@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Patrizia Pepe",
+        "product":"ketting",
+        "price":"150\u20ac",
+        "img":"./sieraden/ketting2PP.webp",
+        "id":81
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"ketting",
+        "price":"180\u20ac",
+        "img":"./sieraden/kettingPP.webp",
+        "id":82
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"oorbellen",
+        "price":"230\u20ac",
+        "img":"./sieraden/oorbellen2EF.webp",
+        "id":83
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"oorbellen",
+        "price":"110\u20ac",
+        "img":"./sieraden/oorbellen2PP.webp",
+        "id":84
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"oorbellen",
+        "price":"220\u20ac",
+        "img":"./sieraden/oorbellen3PP.webp",
+        "id":85
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"oorbellen",
+        "price":"220\u20ac",
+        "img":"./sieraden/oorbellen4PP.webp",
+        "id":86
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"oorbellen",
+        "price":"320\u20ac",
+        "img":"./sieraden/oorbellenEF.webp",
+        "id":87
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"oorbellen",
+        "price":"120\u20ac",
+        "img":"./sieraden/oorbellenPP.webp",
+        "id":88
+    }
+
+]

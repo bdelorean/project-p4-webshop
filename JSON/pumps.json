@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"pumps",
+        "price":"350\u20ac",
+        "img":"./hakken/pumpsEF.webp",
+        "id":41
+    },
+    {
+        "brand":"Nikkie",
+        "product":"pumps",
+        "price":"230\u20ac",
+        "img":"./hakken/pumpsNikkie.webp",
+        "id":42
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"pumps",
+        "price":"450\u20ac",
+        "img":"./hakken/pumps2EF.webp",
+        "id":43
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"pumps",
+        "price":"370\u20ac",
+        "img":"./hakken/pumpsPP.webp",
+        "id":44
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"pumps",
+        "price":"220\u20ac",
+        "img":"./hakken/pumps2PP.webp",
+        "id":45
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"pumps",
+        "price":"380\u20ac",
+        "img":"./hakken/pumps3EF.webp",
+        "id":46
+    },
+    {
+        "brand":"Nikkie",
+        "product":"pumps",
+        "price":"180\u20ac",
+        "img":"./hakken/pumpsNikkie.webp",
+        "id":47
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"pumps",
+        "price":"370\u20ac",
+        "img":"./hakken/pumps6EF.webp",
+        "id":48
+    }
+
+]

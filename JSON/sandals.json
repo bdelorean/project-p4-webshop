@@ -1,0 +1,59 @@
+[
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"sandalen",
+        "price":"350\u20ac",
+        "img":"./ballerinas/SandalenEF.webp",
+        "id":57
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"sandalen",
+        "price":"370\u20ac",
+        "img":"./ballerinas/Sandalen2PP.webp",
+        "id":58
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"balerinas",
+        "price":"250\u20ac",
+        "img":"./ballerinas/BallerinasEF.webp",
+        "id":59
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"sandalen",
+        "price":"350\u20ac",
+        "img":"./ballerinas/Sandalen3PP.webp",
+        "id":60
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"sandalen",
+        "price":"420\u20ac",
+        "img":"./ballerinas/Ballerinas2EF.webp",
+        "id":61
+    },
+    {
+        "brand":"Patrizia Pepe",
+        "product":"sandalen",
+        "price":"280\u20ac",
+        "img":"./ballerinas/SandalenPP.webp",
+        "id":62
+    },
+    {
+        "brand":"Nikkie",
+        "product":"balerinas",
+        "price":"120\u20ac",
+        "img":"./ballerinas/BallerinasNikkie.webp",
+        "id":63
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"sandalen",
+        "price":"450\u20ac",
+        "img":"./ballerinas/Sandalen2EF.webp",
+        "id":64
+    }
+
+]

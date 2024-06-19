@@ -1,0 +1,60 @@
+[
+    {
+        "brand":"Furla",
+        "product":"handtas",
+        "price":"350\u20ac",
+        "img":"./tassen/handbag5Furla.jpg",
+        "id":89
+    },
+    {
+        "brand":"Furla",
+        "product":"handtas",
+        "price":"350\u20ac",
+        "img":"./tassen/handbag6Furla.jpg",
+        "id":90
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"handtas",
+        "price":"430\u20ac",
+        "img":"./tassen/handtas2EF.webp",
+        "id":91
+    },
+    {
+        "brand":"Nikkie",
+        "product":"handtas",
+        "price":"220\u20ac",
+        "img":"./tassen/handtas5Nikkie.webp",
+        "id":92
+    },
+    {
+        "brand":"Nikkie",
+        "product":"handtas",
+        "price":"220\u20ac",
+        "img":"./tassen/handtas6Nikkie.webp",
+        "id":93
+
+    },
+    {
+        "brand":"Nikkie",
+        "product":"handtas",
+        "price":"220\u20ac",
+        "img":"./tassen/handtas7Nikkie.webp",
+        "id":94
+    },
+    {
+        "brand":"Nikkie",
+        "product":"handtas",
+        "price":"220\u20ac",
+        "img":"./tassen/handtas8Nikkie.webp",
+        "id":95
+    },
+    {
+        "brand":"Elisabetta Franchi",
+        "product":"handtas",
+        "price":"420\u20ac",
+        "img":"./tassen/handtasEF.webp",
+        "id":96
+    }
+
+]
