@@ -33,10 +33,10 @@ body {
   align-items: center;
   background-color: var(--light-color);
 }
-.container {
+.container-nav {
   background-color: var(--light-color);
 }
-.container * {
+.container-nav * {
   background-color: var(--light-color);
 }
 
@@ -46,10 +46,10 @@ body {
   gap: 15px;
   background-color: var(--light-color);
 }
-a[href] {
+.container-nav a[href] {
   color: var(--light-color-text);
   font-family: var(--font-family-main);
-  font-size: 25px;
+  font-size: clamp(1rem, 2.5vw + 1rem, 3vh);
   background-color: var(--light-color);
 }
 .navbar-nav .nav-item .logo {
@@ -65,6 +65,8 @@ a[href] {
 .navbar-second .nav-header {
   background-color: var(--dark-color);
   font-size: 20px;
+  color: var(--light-color-text);
+  font-family: var(--font-family-main);
 }
 .navbar-second ul {
   background-color: var(--dark-color);
@@ -84,7 +86,7 @@ a[href] {
   position: absolute;
   top: 100%;
   left: 0;
-  background-color: var(--light-color);
+  background-color: #f4e6da;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
   z-index: 1000;
 }
@@ -97,10 +99,12 @@ a[href] {
   padding: 10px 20px;
   white-space: nowrap;
 }
-
-.dropdown-item:hover {
-  background-color: var(--background-color);
-  color: var(--light-color-text);
+.dropdown {
+  background-color: #f4e6da;
+}
+.dropdown-menu a {
+  background-color: #f4e6da;
+  color: var(--dark-color-text);
 }
 
 .icons a[href] img {
@@ -125,11 +129,15 @@ a[href] {
 .roken-text_button button {
   background-color: var(--dark-color);
   width: 15vw;
-  height: 120px;
+  height: 15vh;
   color: var(--light-color-text);
   font-family: var(--font-family-main);
   border: none;
   font-size: 20px;
+}
+.roken img {
+  max-width: 100%;
+  height: auto;
 }
 .jumpsuits-text_button button {
   background-color: var(--dark-color);
@@ -148,7 +156,9 @@ a[href] {
 }
 .bags p {
   font-family: var(--font-family-main);
+  font-size: 24px;
 }
+
 .bags button {
   background-color: var(--dark-color);
   width: 15vw;
@@ -374,13 +384,120 @@ footer * {
 .add-btn {
   background-color: var(--add-btn-color);
   display: inline-block;
-  width: 50px;
-  height: 50px;
-  line-height: 50px;
-  text-align: center;
-  font-size: 30px;
+  width: 3vw;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
   border: none;
 }
+
+/* Hier begint de mobile version*/
 @media screen and (max-width: 767px) {
-  
+  .roken,
+  .jumpsuits,
+  .bags {
+    position: relative;
+  }
+
+  .roken-text_button,
+  .jumpsuits-text_button {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+  }
+  .roken-text_button p,
+  .jumpsuits-text_button p {
+    font-size: 15px;
+    color: var(--light-color-text);
+    width: 100%;
+    font-style: italic;
+    background-color: rgba(203, 173, 141, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 10px;
+  }
+  .roken-text_button button {
+    font-size: 2vh;
+    height: 40px;
+    width: 150px;
+    box-shadow: 13px 13px 26px #251c19, -13px -13px 26px #4f3e37;
+    border-radius: 70px;
+    background-color: var(--light-color);
+    position: relative;
+    left: -40px;
+  }
+  .jumpsuits-text_button button {
+    font-size: 2vh;
+    height: 40px;
+    width: 150px;
+    border-radius: 70px;
+    background-color: var(--light-color);
+    position: relative;
+    left: -10px;
+    box-shadow: 13px 13px 26px #251c19, -13px -13px 26px #4f3e37;
+  }
+  .bags p {
+    width: 100%;
+    margin-left: auto;
+    position: absolute;
+    background-color: rgba(203, 173, 141, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 5px;
+    font-size: 15px;
+  }
+  .bags button {
+    position: relative;
+    top: -45px;
+    left: -150px;
+    box-shadow: 13px 13px 26px #251c19, -13px -13px 26px #4f3e37;
+    border-radius: 70px;
+    background-color: var(--light-color);
+    font-size: 2vh;
+    height: 40px;
+    width: 150px;
+  }
+  .banner {
+    display: none;
+  }
+  .text-carousel p {
+    font-size: 15px;
+  }
+  .footer-copyrights p {
+    font-size: 10px;
+  }
+  .footer-contact ul {
+    font-size: 10px;
+  }
+  .footer-followUs {
+    font-size: 10px;
+  }
+  .responsive-nav * {
+    background-color: var(--background-color);
+  }
+  .icons-responsive {
+    background-color: var(--dark-color);
+    position: absolute;
+    bottom: 22px;
+    width: 100%;
+  }
+  .icons-responsive-links {
+    background-color: var(--dark-color);
+    position: absolute;
+    width: 100%;
+  }
+  .icons-responsive-links img {
+    background-color: var(--dark-color);
+  }
+  .style {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    min-height: 120vh;
+    place-items: center;
+  }
+  .product-img {
+    height: 30vh;
+    overflow: hidden;
+  }
 }
