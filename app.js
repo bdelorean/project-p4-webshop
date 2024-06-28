@@ -1,4 +1,4 @@
-// let addBtn = document.querySelector("#addButton");
+// let addBtn = document.getElementById("addButton");
 // let cart = [];
 
 // addBtn.addEventListener("click", () => {
@@ -21,34 +21,19 @@
 //     cartModalBody.innerHTML = "<p>Jouw winkelmaand is leeg.</p>";
 //   } else {
 //     alert("jij hebt een product in jouw winkwlmaandje toegevoegd");
-//     cartModalOut += "<ul>"; 
+
 //     cart.forEach((product) => {
 //       cartModalOut += `
-//            <li>
-//                <h3>${product.name}</h3>
-//                <p>Price: ${product.price} €</p>
-//                <p>Color: ${product.color}</p>
-//                <p>Size: ${product.size}</p>
-//            </li>
-//        `;
+//            <ul>
+//              <li><h3>${product.name}</h3></li>
+//              <li><p>Price: ${product.price} €</p></li>
+//              <li><p>Color: ${product.color}</p></li>
+//              <li><p>Size: ${product.size}</p> </li>
+//             </ul>
+//       `;
 //     });
-//     cartModalOut += "</ul>"; 
+
 //     cartModalBody.innerHTML = cartModalOut;
 //   }
-  
-  
 // }
-
-
-
-
-
-
-
- 
- 
-  
-  
- 
-
-  
+// //MOET VEDER WERKEN
